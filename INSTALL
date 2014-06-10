@@ -1,0 +1,9 @@
+Building Alliancecoin
+
+See doc/readme-qt.rst for instructions on building Alliancecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Alliancecoin.
+
+See doc/build-*.txt for instructions on building Alliancecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Alliancecoin.
